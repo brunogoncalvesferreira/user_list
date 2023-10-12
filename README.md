@@ -1,17 +1,17 @@
   <h1 align="center">Projeto React - Typescript</h1>
 
   <p align="center">
-    <a href="#project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#tech">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#run">Como rodar projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#license">Licença</a>
+    <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-rodar-projeto">Como rodar projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-licença">Licença</a>
   </p>
 
   <p align="center">
     <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000" />
   </p>
 
-  <h2 id="project">📋 Projeto</h2>
+  ## 📋 Projeto
   
   <p>
     Este projeto modesto foi desenvolvido utilizando ReactJS e TypeScript, com o propósito de solidificar conceitos fundamentais em React e TypeScript. Além disso, faz uso da biblioteca Styled-Components para a estilização da aplicação e implementa o uso do Use-Context, uma abordagem que facilita o compartilhamento de dados entre todos os componentes de maneira eficaz e clara.
@@ -20,7 +20,7 @@
   <img
     src=".github/image.png">
 
-  <h2 id="tech">👨🏻‍💻 Tecnologias</h2>
+ ## 👨🏻‍💻 Tecnologias
   <p>
     Abaixo as tecnologias que utilizamos para o desenvolvimento do projeto:
 
@@ -30,7 +30,7 @@
     3 - Styled-components
   </p>
 
-  <h2 id="run">💿 Como rodar projeto</h2>
+  ## 💿 Como rodar projeto
   
   <p>Para rodar o projeto localmente, precisamos ter o `Node.js` e o `npm` instalados.</p>
 
@@ -57,7 +57,7 @@
   ```
   <a href="https://user-list-eight-lake.vercel.app/">Clique e veja o projeto rodando</a>
 
-  <h2 id="license">📝 Licença</h2>
+  ## 📝 Licença
   
   Este projeto está licenciado com a licença [MIT](https://github.com/brunogoncalvesferreira/treine.me/blob/main/LICENSE)
 
