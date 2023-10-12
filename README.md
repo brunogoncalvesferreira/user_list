@@ -12,6 +12,7 @@
   </p>
 
   <h2 id="project">📋 Projeto</h2>
+  
   <p>
     Este projeto modesto foi desenvolvido utilizando ReactJS e TypeScript, com o propósito de solidificar conceitos fundamentais em React e TypeScript. Além disso, faz uso da biblioteca Styled-Components para a estilização da aplicação e implementa o uso do Use-Context, uma abordagem que facilita o compartilhamento de dados entre todos os componentes de maneira eficaz e clara.
   </p>
@@ -30,6 +31,7 @@
   </p>
 
   <h2 id="run">💿 Como rodar projeto</h2>
+  
   <p>Para rodar o projeto localmente, precisamos ter o `Node.js` e o `npm` instalados.</p>
 
   <Strong>Siga o passo a passo:</Strong>
@@ -56,7 +58,8 @@
   <a href="https://user-list-eight-lake.vercel.app/">Clique e veja o projeto rodando</a>
 
   <h2 id="license">📝 Licença</h2>
-  <p>Este projeto está licenciado com a licença [MIT](https://github.com/brunogoncalvesferreira/treine.me/blob/main/LICENSE)</p>
+  
+  Este projeto está licenciado com a licença [MIT](https://github.com/brunogoncalvesferreira/treine.me/blob/main/LICENSE)
 
   <h2>🙋🏻‍♂️ Entre em contato<h2>
   <div style="display: flex;">
