@@ -3,7 +3,7 @@
   <p align="center">
     <a href="#project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#tech">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#runproject">Como rodar projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#run">Como rodar projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#license">Licença</a>
   </p>
 
@@ -29,7 +29,7 @@
     3 - Styled-components
   </p>
 
-  <h2 id="runproject">💿 Como rodar projeto</h2>
+  <h2 id="run">💿 Como rodar projeto</h2>
   <p>Para rodar o projeto localmente, precisamos ter o `Node.js` e o `npm` instalados.</p>
 
   <Strong>Siga o passo a passo:</Strong>
