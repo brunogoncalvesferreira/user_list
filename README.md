@@ -56,7 +56,7 @@
   <a href="https://user-list-eight-lake.vercel.app/">Clique e veja o projeto rodando</a>
 
   <h2 id="license">📝 Licença</h2>
-  <p>Este projeto está licenciado com a licença [MIT](https://github.com/brunogoncalvesferreira/treine.me/blob/main/LICENSE).</p>
+  <p>Este projeto está licenciado com a licença [MIT](https://github.com/brunogoncalvesferreira/treine.me/blob/main/LICENSE)</p>
 
   <h2>🙋🏻‍♂️ Entre em contato<h2>
   <div style="display: flex;">
