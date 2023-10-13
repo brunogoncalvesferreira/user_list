@@ -26,9 +26,10 @@ export const HeaderContainer = styled.header`
 
 export const Title = styled.h1`
   font-size: 2.5rem;
-  max-width: 200px;
+  max-width: 150px;
   letter-spacing: -4px;
   line-height: 3rem;
+  text-align: center;
 
   color: ${(props) => props.theme['gray-300']};
 `
